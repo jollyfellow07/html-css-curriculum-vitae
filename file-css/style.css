@@ -3,6 +3,7 @@
     width: 50%;
     background-color: #e3e4e6;
     background-size: 50%;
+    text-align: center;
     
 }
 .intestazione {
@@ -13,8 +14,18 @@ h3{
     color: orange;
   
 }
+h4{
+    
+}
+  img.foto{
+
+    display: block;
   
+    margin:0 auto;
+  
+  }
 .autore{
+    text-align: center;
     margin: auto;
     width: 50%;
   }
