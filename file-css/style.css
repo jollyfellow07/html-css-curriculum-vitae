@@ -1,3 +1,4 @@
+/*regolate posizioni e aggiunta sfondo grigio*/
 .profilo {
     margin: auto;
     width: 50%;
@@ -5,7 +6,7 @@
     background-size: 50%;
     text-align: center;
 }
-
+/*corretto posizionamento intestazione*/
 .intestazione {
     margin: auto;
     width: 50%;
@@ -15,10 +16,14 @@
 h3{
     color: orange;
 }
+h4{
+    Font-family:
+}
 
- 
+            /*centrata firma copyright e regolata dimensione testo*/
 .autore{
     text-align: center;
     margin: auto;
     width: 50%;
+    Font-size: 10px;
   }
