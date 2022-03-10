@@ -4,26 +4,19 @@
     background-color: #e3e4e6;
     background-size: 50%;
     text-align: center;
-    
 }
+
 .intestazione {
     margin: auto;
     width: 50%;
 }
+
+/*dichiaro il colore arancione a tutti i titoli secondari*/
 h3{
     color: orange;
-  
 }
-h4{
-    
-}
-  img.foto{
 
-    display: block;
-  
-    margin:0 auto;
-  
-  }
+ 
 .autore{
     text-align: center;
     margin: auto;
